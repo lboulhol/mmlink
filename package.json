@@ -1,0 +1,16 @@
+{
+  "name": "keplr-mm-connector",
+  "version": "0.1.0",
+  "description": "MonMarche Legacy linking API",
+  "main": "mmlink.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Louis Boulhol",
+  "license": "ISC",
+  "dependencies": {
+    "mysql": "^2.16.0",
+    "http": "^0.0.0",
+    "https": "^1.0.0"
+  }
+}
